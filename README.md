@@ -1,1 +1,8 @@
 # CS_250
+https://learn.snhu.edu/d2l/le/dropbox/1969265/3662650/DownloadSubmissionFile?fid=215442238&sid=56291135
+How do I interpret user needs and implement them into a program? How does creating “user stories” help with this?
+I interpret user needs by gathering the requirements directly from the stakeholders by listening to what they are expecting and what their goals are. I would focus on understanding why they want that feature and what value it would bring. After that I could translate those into features by breaking them down into smaller testable tasks. Collaboration with users and the developement team helps make sure that what is built is what was expected to be built. User dtories help because it helps understand who the user is, what they want, and why it matters. They also help the team prioritize what features are improtant and wehen the user story is done. 
+How do I approach developing programs? What Agile processes do I hope to incorporate into my future development work?
+I approach development through staring small, build incrementally, and rewfine things based on feedback I recieve. I would also incorporate the agile process by having daily standups, dsprint planning, and retrospectives because they help promote collaboration. Also by using backlog to prioritize work and deliver in shorter iterations.
+What does it mean to be a good team member in software development?
+Being a good team member is more than writing code. It means to communicate, respecting different perspectives, supporting team members, and sharing knowledge. They also take responsibility for there work and focus on collective success. 
